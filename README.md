@@ -43,20 +43,6 @@
 </p>
 
 
-<!--   GitHub stats graph -->
-<h1 align="center">Last Month Activity Graph: </h1>
-
-[![cryptoforge318's Activity](https://github-readme-activity-graph.cyclic.app/graph?username=cryptoforge318&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com)
- . | .
---- | --- 
-![cryptoforge318 github stats](https://github-readme-stats.vercel.app/api?username=cryptoforge318&show_icons=true&theme=github_dark&include_all_commits=true) | ![cryptoforge318  github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptoforge318&theme=github_dark&layout=compact)
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cryptoforge318" ></img>
-</p>
-
-
-
-
 <p align="center">
 <img src="https://gpvc.arturio.dev/cryptoforge318" alt="Profile views"/>
 </p>
