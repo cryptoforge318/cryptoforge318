@@ -41,8 +41,4 @@
 <p align="center">
   <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cryptoforge318&theme=github_dark" />
 </p>
-
-
-<p align="center">
-<img src="https://gpvc.arturio.dev/cryptoforge318" alt="Profile views"/>
 </p>
