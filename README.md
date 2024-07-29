@@ -35,10 +35,3 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" width="100"></td>
    </tr>
   </table>
-
-
-<h1 align="center">Github Status </h1>
-<p align="center">
-  <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cryptoforge318&theme=github_dark" />
-</p>
-</p>
